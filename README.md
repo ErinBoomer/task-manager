@@ -20,8 +20,6 @@ This is a simple task manager web application built using HTML, CSS, and JavaScr
 2. Open `index.html` in a web browser
 3. Start managing tasks
 
-##  Live Demo
-(If available, you can add later)
 
 ##  Project Structure
 - index.html
